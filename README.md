@@ -206,7 +206,7 @@ Edit `/var/www/general.mecha.franky.iup04.com/.htaccess` like this </br>
 ![15 2](https://user-images.githubusercontent.com/81411468/139206565-9305ccd1-ca37-4f2a-9376-4a4c56fb2234.PNG)
 
 **Difficulties:**
-- No difficulties
+- Can't open with correct password
 
 # Problem 16
 **And every time you access the Skypie IP it will be automatically redirected to `www.franky.iup04.com`**
@@ -230,4 +230,4 @@ Edit `/var/www/super.franky.iup04.com/.htaccess` like this </br>
 ![17 2](https://user-images.githubusercontent.com/81411468/139207844-009a3b0c-e27b-415a-a1c3-a11d539824a0.PNG)
 
 **Difficulties:**
-- No difficulties
+- franky.png cant downloaded
